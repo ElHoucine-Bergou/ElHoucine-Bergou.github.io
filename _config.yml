@@ -29,9 +29,9 @@ minimal_mistakes_skin: "dark"
 author:
   name             : "El Houcine Bergou"
   avatar           : "as.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Member of technical staff at Microsoft"
+  bio              : "Professor at UM6P"
   location         : "Building 99"
-  email            : "adilsalim@microsoft.com"
+  email            : "elhoucine.bergou@um6p.ma"
   uri              :
   bitbucket        :
   codepen          :
@@ -39,18 +39,18 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "adil-salim"
+  github           : "ElHoucine-Bergou"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "adil-salim"
+  linkedin         : "ehbergou"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "AdilSlm"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :

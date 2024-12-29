@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Homepage
-name: Adil Salim
+name: El Houcine Bergou
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -28,9 +28,9 @@ minimal_mistakes_skin: "dark"
 # Site Author
 author:
   name             : "El Houcine Bergou"
-  avatar           : "as.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "ELHoucine BERGOU1.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Professor at UM6P"
-  location         : "Building 99"
+  location         : "SHBM, UM6P"
   email            : "elhoucine.bergou@um6p.ma"
   uri              :
   bitbucket        :

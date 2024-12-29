@@ -7,7 +7,7 @@ header:
 
 ##  Articles in Refereed Journals/ Conferences
 
-Check my [google scholar] (https://scholar.google.com/citations?user=qzxprWoAAAAJ&hl=fr) for the compete liste of my publications. Below is a  sample of my publications:
+Check my [google scholar](https://scholar.google.com/citations?user=qzxprWoAAAAJ&hl=fr) for the compete liste of my publications. Below is a  sample of my publications:
 
 E. Bergou, Y. Diouane, V. Kungurtsev and C. W. Royer. A subsampling Line-Search Method with Second-Order Results. INFORMS Journal on Optimization. [pdf](https://arxiv.org/pdf/1810.07211.pdf)
 

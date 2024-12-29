@@ -2,25 +2,23 @@
 title: Teaching
 permalink: /Teaching/
 header:
-  overlay_image: unsplash-gallery-image-2.jpg
+ 
 ---
 
-I was a **Teaching Assistant** for the following courses.
 
-Industrial masters (2018):
+masters/Predoc:
+-Numerical Optimization at UM6P. 2020-2023
 
-- Image processing project ("Fil rouge", Télécom Paris)
+- Numerical Optimization at ENSEEIHT. 2012-2014
 
-Graduate level (2016 - 2019):
+Graduate level:
 
-- Optimization for machine learning (KAUST)
-- Introduction to Stochastic Processes (ENSAE Paris)
-- Applied statistics project (ENSAE Paris)
-- Optimization (Télécom Paris)
+-Numerical Optimization at UM6P. 2024-present
+- Numerical Optimization and Linear Algebra at ISAE. 2012-2014
 
-Undergraduate level (2016 - 2018):
-
-- Algebra (ENSAE Paris)
-- Measure theory (ENSAE Paris)
+Undergraduate level:
+- Analysis: Measure theory, Convolution, Fourier and Laplace Transforms, Numerical methods of nonlinear equations, methods  for PDEs at UM6P. 2022-present
+- Algebra at ENSEEIHT. 2012-2014.
+- Measure theory at ISAE and Paul Sabatier University. 2015
 
 

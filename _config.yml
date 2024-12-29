@@ -69,6 +69,8 @@ defaults:
 #  uri    : "http://your-site.com"
 #  home   : # null (default), "absolute or relative url to link to author home"
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Z1Ez5fWn7bnplbdIBeyv0lVks4ZFzVha4LRYjjuHtg0&cl=ffffff&w=a"></script>
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache

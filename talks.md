@@ -1,42 +1,33 @@
 ---
-title: Talks
+title: talks
 permalink: /Talks/
 header:
-  overlay_image: unsplash-gallery-image-2.jpg
+
 ---
 
-## Selected talks
+## Selected Conferences and Talks
 
+On the Discrepancy between the Theoretical Analysis and Practical Implementations of Compressed Communication for Distributed Deep Learning. AAAI. New York, USA. February 2020.
 
-- A Stochastic Proximal Point Algorithm for Total Variation Regularization over Large Scale Graphs, Conference on Decision and Control, December 2016, Las Vegas, USA
+Random Direct Search for Derivative Free Optimization. International Conference on Continuous Optimization.  Berlin, Germany. August  2019.
 
-- [Stochastic Proximal Gradient algorithm]({{site.baseurl}}{% link Talks/fjml.pdf %}), France / Japan Machine Learning Workshop, September 2017, Ecole Normale Supérieure Paris, France
+Stochastic Three Point Method for Convex and Non Convex Optimization. The Institute for Operations Research and the Management Sciences (INFORMS) annual meeting. Phoenix, USA. December 
+2018.
 
-- [Distributed Douglas Rachford algorithm]({{site.baseurl}}{% link Talks/odissee.pdf %}), ANR ODISSEE meeting, November 2017, Nice Sophia Antipolis University, France
+Random Direct Search method for unconstrained optimization. International Symposium of the Mathematical Optimization. Bordeaux, France. July 2018.
 
-- [Snake]({{site.baseurl}}{% link Talks/snake_cap.pdf %}), CAp 2017, June 2017, IMAG Grenoble, France
+A line-search algorithm inspired by the adaptive cubic regularization framework, with a worst-case complexity $O(e^{-3/2})$.  Optimization conference. Lisbon, Portugal. September 2017.
 
-- [Snake: a Stochastic Proximal Gradient Algorithm for Regularized Problems over Large Graphs]({{site.baseurl}}{% link Talks/isis.pdf %}), GdR ISIS meeting, February 2018, Télécom Paris, France
+Levenberg-Morrison-Marquardt based on probabilistic models.14-th EUROPT Workshop on Advances in Continuous Optimization. Warsaw, Poland. June 2016.
 
-- [A stochastic Forward Backward algorithm with application to large graphs regularization]({{site.baseurl}}{% link Talks/epfl.pdf %}), Machine Learning Optimization seminar, March 2018, Ecole Polytechnique Fédérale de Lausanne, Switzerland
+Levenberg-Morrison-Marquardt and Ensemble Methods. Invited talk. Optimization for the Life Sciences  Workshop. Paris, France. November 2015.
 
-- [A Splitting Algorithm for Minimization under Stochastic Linear Constraints]({{site.baseurl}}{% link Talks/ismp.pdf %}), ISMP, July 2018, Bordeaux, France
+E. Bergou. Hybrid Levenberg Morisson Marquardt and Ensemble Kalman smoother. Invited talk by National Institute for Research in Computer Science and Automation (INRIA). Rennes, France. June 2015.
 
-- [Soutenance de thèse]({{site.baseurl}}{% link Talks/soutenance.pdf %}), November 2018, Télécom Paris, France
+4DVAR by ensemble Kalman smoother. Invited talk. Department of Mathematics and Statistical Science, University of Colorado Denver, USA. March 2014.
 
-- [Sampling as Convex Optimization]({{site.baseurl}}{% link Talks/sampling.pdf %}), Guest Lecture on Optimization for Machine Learning, March 2019, KAUST, KSA
+Random Levenberg Morisson Marquardt methods with application to data assimilation. Weather forecast/Geophysical fluids workshop. International Center for Mathematics and Computer Science  (CIMI). Toulouse, France. January 2014.
 
-- [Stochastic Chambolle-Pock]({{site.baseurl}}{% link Talks/sto-cp.pdf %}), Visual Computing Center showcase, April 2019, KAUST, KSA
-
-- [Exponential Convergence Time of Gradient Descent for One-Dimensional Deep Linear Neural Networks]({{site.baseurl}}{% link Talks/shamir.pdf %}), Mathematics of Deep Learning seminar, May 2019, KAUST, KSA
-
-- [On Stochastic Primal--Dual Algorithms]({{site.baseurl}}{% link Talks/iccopt.pdf %}), ICCOPT, August 2019, TU Berlin, Germany
-
-- [Langevin as an Optimization algorithm]({{site.baseurl}}{% link Talks/lmc.pdf %}), Computer Science Graduate Seminar, November 2019, KAUST, KSA
-
-- [Stochastic Proximal Langevin Algorithm]({{site.baseurl}}{% link Talks/spla-slides.pdf %}), NeurIPS, December 2019, Vancouver, Canada
-
-- [Primal Dual Interpretation of the Proximal Stochastic Gradient Langevin Algorithm](https://www.youtube.com/watch?v=4lGjecpVWzE), [Second Symposium on Machine Learning and Dynamical Systems](https://sites.google.com/site/boumedienehamzi/second-symposium-on-machine-learning-and-dynamical-systems), Fields Institute, Toronto, Canada (ONLINE).
-
+Hybrid 4DVAR and Nonlinear EnKS Methods without Tangents and Adjoints. Probabilistic Approaches to Data Assimilation for Earth Systems workshop. Banff, Canada. February 2013.
 
 

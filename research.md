@@ -13,7 +13,7 @@ E. Bergou, Y. Diouane, V. Kungurtsev and C. W. Royer. A subsampling Line-Search 
 
 E. Bergou, M. N. Ndiaye, H. El Hammouti and M. Ghogho Age-of-Updates Optimization for UAV-assisted Networks. IEEE Global Communications Conference (GLOBECOM). [pdf](https://arxiv.org/abs/2209.05370)
 
-E. Bergou, A. Dutta, Y. Xiao, M. Canini and P. RichtÃ¡rik. Direct Nonlinear Acceleration. EURO Journal on Computational Optimization.[pdf](https://arxiv.org/pdf/1905.11692.pdf)
+E. Bergou, A. Dutta, Y. Xiao, M. Canini and P. Richtarik. Direct Nonlinear Acceleration. EURO Journal on Computational Optimization.[pdf](https://arxiv.org/pdf/1905.11692.pdf)
 
 E. Bergou, H. Xu, C. Y. Ho, A. M. Abdelmoniem, A. Duta, K. Karatsenidis, M. Canini, and P. Kalnis. Compressed communication for distributed deep learning: survey and quantitative evaluation. International Conference on Distributed Computing Systems (ICDCS). [pdf](https://repository.kaust.edu.sa/bitstream/handle/10754/662495/gradient-compression-survey.pdf?sequence=1&isAllowed=y)
 
@@ -23,7 +23,7 @@ E. Bergou, Y. Hong, N. Doucety, H. Zhangy, J. Cranneyy, H. Ltaief, D. Gratadoury
 
 E. Bergou, Y. Diouane, V. Kungurtsev and C. Royer. A Nonmonotone Matrix-Free Algorithm for Nonlinear Equality-Constrained Inverse Problems. SIAM Journal on Scientific Computing (SISC). [pdf](https://arxiv.org/pdf/2006.16340.pdf)
 
-E. Bergou, E. Gorbunov and P. RichtÃ¡rik. Stochastic Three Points Method for Unconstrained
+E. Bergou, E. Gorbunov and P. Richtarik. Stochastic Three Points Method for Unconstrained
 Minimization. SIAM Journal on Optimization (SIOPT).[pdf](https://arxiv.org/pdf/1902.03591.pdf)
 
 E. Bergou, Y. Diouane, V. Kungurtsev and C. Royer. A Stochastic Levenberg-Marquardt Method
@@ -32,9 +32,9 @@ Using Random Models with Application to Data Assimilation. SIAM/ASA Journal on U
 E. Bergou, A. Dutta, A. M. Abdelmoniem, C. Y. Ho, A. N. Sahu, M. Canini and P. Kalnis. 
 On the Discrepancy between the Theoretical Analysis and Practical Implementations of Compressed Communication for Distributed Deep Learning. AAAI. [pdf](https://arxiv.org/pdf/1911.08250.pdf)
 
-E. Bergou, A. Bibi, E. Gorbunov, O. Sener and P. RichtÃ¡rik. A Stochastic Derivative-Free Optimization Method with Momentum. ICLR. [pdf](https://arxiv.org/pdf/1905.13278.pdf)
+E. Bergou, A. Bibi, E. Gorbunov, O. Sener and P. Richtarik. A Stochastic Derivative-Free Optimization Method with Momentum. ICLR. [pdf](https://arxiv.org/pdf/1905.13278.pdf)
 
-E. Bergou, A. Bibi, O. Sener, B. Ghanem and P. RichtÃ¡rik. A Stochastic Derivative-Free Optimization Method with
+E. Bergou, A. Bibi, O. Sener, B. Ghanem and P. Richtarik. A Stochastic Derivative-Free Optimization Method with
 Importance Sampling. AAAI. [pdf](https://arxiv.org/pdf/1902.01272.pdf)
 
 E. Bergou, Y. Diouane and V. Kungurtsev. Global and Local Convergence of a Levenberg Marquadt

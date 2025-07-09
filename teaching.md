@@ -5,20 +5,22 @@ header:
  
 ---
 
+Current teaching:
 
-masters/Predoc:
--Numerical Optimization at UM6P. 2020-2023
+- Numerical Optimization at UM6P, college of computing. 2024-present
+
+- Analysis: Measure theory, Convolution, Fourier and Laplace Transforms, Numerical methods of nonlinear equations, methods  for PDEs at UM6P, college of computing. 2022-present
+
+Previous teaching:
+
+-Numerical Optimization at UM6P for predoctoral students. 2020-2023
 
 - Numerical Optimization at ENSEEIHT. 2012-2014
 
-Graduate level:
-
--Numerical Optimization at UM6P. 2024-present
 - Numerical Optimization and Linear Algebra at ISAE. 2012-2014
 
-Undergraduate level:
-- Analysis: Measure theory, Convolution, Fourier and Laplace Transforms, Numerical methods of nonlinear equations, methods  for PDEs at UM6P. 2022-present
-- Algebra at ENSEEIHT. 2012-2014.
+- Algebra at ENSEEIHT. 2012-2014
+  
 - Measure theory at ISAE and Paul Sabatier University. 2015
 
 

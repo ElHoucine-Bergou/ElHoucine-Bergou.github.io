@@ -13,7 +13,7 @@ Current teaching:
 
 Previous teaching:
 
--Numerical Optimization at UM6P for predoctoral students. 2020-2023
+- Numerical Optimization at UM6P for predoctoral students. 2020-2023
 
 - Numerical Optimization at ENSEEIHT. 2012-2014
 
